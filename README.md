@@ -19,4 +19,5 @@ This website currently makes 3 separate API calls to retreive Death, Confirmed a
 
 ## Setup
 1. First, you need to **create** a Discord bot. Here's an easy tutorial: [How to Make a Discord Bot](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/)
-2. Secondly, you need to get your bots authorization **token**. 
+2. Secondly, you need to get your bots authorization **token**. Copy it to your clipboard
+3. Then you need to run the ```install.bat``` file to install all required dependencies which includes **discord.js** and **request**.
