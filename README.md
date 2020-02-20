@@ -9,7 +9,7 @@ https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/ncov_cases/Fe
 
 This API endpoint only obtains the latest global infection and mortality rates but you could potentially get more detailed statistics by playing around with the network requests.
 
-#### Website
+### Website
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
 This website currently makes 3 separate API calls to retreive Death, Confirmed and Recovered cases, however ArcGIS supports multiple queries in one request so the API call can retreive all 3 at once.
