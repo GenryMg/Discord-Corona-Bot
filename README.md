@@ -24,3 +24,6 @@ This website currently makes 3 separate API calls to retreive Death, Confirmed a
 4. Then you need to run the ```install.bat``` file to install all required dependencies which includes **discord.js** and **request**. The command prompt may be closed once everything has stopped.
 5. After installing all the required depencies, you will need to **edit** the ```index.js``` file to include your bots' **token** inside the **empty** string: ```const Token = '';```
 6. Then **run** the ```start.bat``` file to start running your bot, and type ```!corona``` in **any** channel and the bot will respond by sending a nice embed containing everything.
+
+## Showcase
+![Showcase](https://meth.dev/0e55FE7.png)
