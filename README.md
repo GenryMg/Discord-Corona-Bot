@@ -16,3 +16,6 @@ This API endpoint only obtains the latest global infection and mortality rates b
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
 This website currently makes 3 separate API calls to retreive Death, Confirmed and Recovered cases, however ArcGIS supports multiple queries in one request so the API call can retreive all 3 at once.
+
+## Setup
+1. First you need to create a Discord bot. Here's an easy tutorial: [How to Make a Discord Bot](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/)
