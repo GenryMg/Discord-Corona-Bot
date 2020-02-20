@@ -21,4 +21,7 @@ This website currently makes 3 separate API calls to retreive Death, Confirmed a
 1. First, you need to **create** a Discord bot. Here's an easy tutorial: [How to Make a Discord Bot](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/)
 2. Secondly, you need to get your bots authorization **token**. Copy it to your clipboard
 3. Third, you will need to **invite** your bot to **your server**.
-4. Then you need to run the ```install.bat``` file to install all required dependencies which includes **discord.js** and **request**.
+4. Then you need to run the ```install.bat``` file to install all required dependencies which includes **discord.js** and **request**. The command prompt may be closed once everything has stopped.
+5. After installing all the required depencies, you will need to edit the ```index.js``` file to include your bots token inside the empty string 
+```js
+const Token = '';```
